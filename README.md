@@ -2,7 +2,7 @@
 A simple implementation of Dijkstra's algorithm to find the most efficient routes around campus. This was made for a Introduction to Computer Science (CSCI101) Final Project I did during Fall 2021. While an implementation of Dijkstra's algorithm was definitely not expected of us, I wanted to try my hand at implementing an algorithm that can have use in real life.
 
 # Running The Program
-In order to run the program, an example file ("campus.txt") and query (see below) are provided. The program will expect an input file, walking speed (decimal number), and start/end locations (strings).
+In order to run the program, an example file ("campus.txt") and query (see below) are provided. The program will expect an input file, walking speed (decimal number), and start/end locations (strings). The following is an example test case.
 
     python routes_around_campus.py
     campus.txt
