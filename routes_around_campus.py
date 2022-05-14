@@ -1,6 +1,11 @@
-# Ethan Richards
-# "Routes Around Campus"
-# CSCI101 Create Project 
+"""
+Ethan Richards
+CSCI 101 - Create Project: Routes Around Campus
+Reference: Sumner Evans (Mines Alum + Adjunct Professor)
+Reference: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+Reference: https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3
+Reference: https://www.w3schools.com/python/python_dictionaries.asp
+"""
 from queue import PriorityQueue
 
 """
